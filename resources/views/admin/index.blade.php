@@ -18,6 +18,6 @@
                     {{ __("You're logged in!") }}
                 </div>
             </div>
-        </div>
+        </div> 
     </div>
 </x-admin-layout>
