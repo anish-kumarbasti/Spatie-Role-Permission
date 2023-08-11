@@ -8,7 +8,6 @@
         <div class="row">
             <div class="col-sm-4">
                 <h1>Sidebar</h1>
-                <p>h1 tag does not work update this tag </p>
             </div>
         </div>
     </div>
@@ -19,6 +18,6 @@
                     {{ __("You're logged in!") }}
                 </div>
             </div>
-        </div> 
+        </div>
     </div>
 </x-admin-layout>
